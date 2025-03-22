@@ -1,0 +1,9 @@
+{
+  "ArteranosBootstrapData": "https://arteranos.github.io/BootstrapData.json",
+  "DeployBootstrapAddr": "/dns4/deploy.arteranos.ddnss.eu/tcp/4001/p2p/12D3KooWA1qSpKLjHqWemSW1gU5wJQdP8piBbDSQi6EEgqPVVkyc",
+  "PrimeBootstrapAddr": "/dns4/prime.arteranos.ddnss.eu/tcp/4001/p2p/12D3KooWA1qSpKLjHqWemSW1gU5wJQdP8piBbDSQi6EEgqPVVkyc",
+  "IPFSDeployDir": "/ipns/deployKeyTODO",
+  "KuboVersion": "v0.32.0",
+  "KuboWebDlRoot": "https://github.com/ipfs/kubo/releases/download",
+  "ArteranosWebDlRoot": "https://github.com/arteranos/Arteranos/releases/download/v3.0.0-pre"
+}
