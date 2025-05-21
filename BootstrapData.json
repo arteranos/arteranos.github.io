@@ -5,5 +5,5 @@
   "IPFSDeployDir": "/ipns/12D3KooWFYS1mqjmmNiiTCdoKaBwohZ5kA8npagPMCxVHGhCtJcv",
   "KuboVersion": "v0.33.2",
   "KuboWebDlRoot": "https://github.com/ipfs/kubo/releases/download",
-  "ArteranosWebDlRoot": "https://github.com/arteranos/Arteranos/releases/download/v3.0.0-pre"
+  "ArteranosWebDlRoot": "https://github.com/arteranos/Arteranos/releases/download/v3.0.1"
 }
